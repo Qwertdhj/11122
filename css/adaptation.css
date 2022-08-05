@@ -492,14 +492,13 @@ margin-left: 0;
     .trf h4 { display: none; }
     .caw p {
         height: 93px;
-        width: 564px;
+        width: 100%;
         position: relative;
         color: white;
         /* text-align: center; */
      margin-top: 15px;
         font-size: 15px;
         font-weight: bold;
-        margin-left: -115px;
     }
     .caw {
         width: 34%;
@@ -513,13 +512,13 @@ margin-left: 0;
         transition: 0.2s;
     }
     .caw2 {
-        width: 34%;
+        width: 51%%;
         height: 52px;
         position: relative;
         margin-top: 33px;
         background: #1F1F1F;
         box-shadow: 0 0 10px rgb(0 0 0);
-        left: -8.1%;
+        left: -40%;
         border-radius: 40px;
         transition: 0.2s;
     }
@@ -600,7 +599,6 @@ margin-left: 0;
         color: white;
         text-align: center;
         margin-top: 15px;
-        left: -118px;
         font-size: 15px;
         font-weight: bold;
     }
@@ -632,7 +630,7 @@ margin-left: 0;
         border-radius: 20px;
     }
     .swiper {
-        width: 36%;
+        width: 57%;
         height: 569px;
         border-radius: 20px;
         /* height: 100%; */
