@@ -8,7 +8,7 @@
     .DEw:hover
     {
              width: 150px;
-        margin-left: 0;
+        margin-left: 70px;
     }
     .ber img {
         width: 100%;
@@ -562,7 +562,7 @@ margin-left: 0;
         background: #1f1f1f;
         position: relative;
         margin-top: 504px;
-        margin-left: 65px;
+        margin-left: 70px;
         border-radius: 40px;
         box-shadow: 0 0 10px rgb(0 0 0);
         transition: 0.3s;
