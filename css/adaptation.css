@@ -512,13 +512,13 @@ margin-left: 0;
         font-weight: bold;
     }
     .caw {
-    width: 70%;
+    width: 74%;
     height: 52px;
     position: relative;
     margin-top: 676px;
     background: #1F1F1F;
     box-shadow: 0 0 10px rgb(0 0 0);
-    margin-left: 15%;
+    margin-left: 13%;
     border-radius: 40px;
     transition: 0.2s;
     }
@@ -530,13 +530,13 @@ margin-left: 0;
     left: -8px;
 }
     .caw2 {
-width: 66%;
+    width: 70%;
     height: 52px;
     position: relative;
     margin-top: 33px;
     background: #1F1F1F;
     box-shadow: 0 0 10px rgb(0 0 0);
-    margin-left: 17%;
+    margin-left: 16%;
     border-radius: 40px;
     transition: 0.2s;
 
@@ -649,7 +649,7 @@ width: 66%;
         border-radius: 20px;
     }
     .swiper {
-        width: 85%;
+        width: 95%;
         height: 569px;
         border-radius: 20px;
         /* height: 100%; */
