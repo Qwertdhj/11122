@@ -517,13 +517,13 @@ width: 35%;
     transition: 0.2s;
     }
     .caw2 {
-width: 45%;
+width: 28%;
     height: 52px;
     position: relative;
     margin-top: 33px;
     background: #1F1F1F;
     box-shadow: 0 0 10px rgb(0 0 0);
-    left: -5%;
+    left: -10%;
     border-radius: 40px;
     transition: 0.2s;
     }
@@ -599,7 +599,7 @@ width: 45%;
 .rwa2 { display: none; }
     .caw2 p {
         height: 93px;
-        width: 564px;
+        width: 100%;
         position: relative;
         color: white;
         text-align: center;
