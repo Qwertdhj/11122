@@ -713,8 +713,7 @@ li
     }
     .DEw:hover
     {
-        width: 220px;
-        margin-left: 280px;
+        transform: scale(1.1);
         background: #323232;
         position: relative;
     }
