@@ -5,6 +5,11 @@
         height: 375px;
         top: 10px;
     }
+    .DEw:hover
+    {
+             width: 150px;
+        margin-left: 0;
+    }
     .ber img {
         width: 100%;
         border-radius: 20px;
