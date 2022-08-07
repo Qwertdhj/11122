@@ -10,6 +10,10 @@
         border-radius: 20px;
         transition: 0.3s;
     }
+    .rrs li
+    {
+     font-size: 20px;   
+    }
     .bier {
         height: 80px;
         width: 80px;
@@ -417,6 +421,7 @@ margin-left: 0;
         margin-top: 5100px;
         color: white;
         margin-left: 136px;
+            font-size: 25px;
     }
     .ver img {
         margin-top: 2305px;
