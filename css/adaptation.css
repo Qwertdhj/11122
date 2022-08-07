@@ -359,23 +359,19 @@ margin-left: 0;
     .linne_2 {
         border: 1px solid #383838;
         width: 90%;
-        margin-top: 6650px;
+        margin-top: 2285px;
         position: absolute;
         left: 18px;
     }
     .linne_3 {
         border: 1px solid #383838;
         width: 90%;
-        margin-top: 8935px;
+        margin-top: 3386px;
         position: absolute;
         left: 18px;
     }
     .linne_4 {
-        border: 1px solid #383838;
-        width: 90%;
-        margin-top: 9830px;
-        position: absolute;
-        left: 18px;
+  display:none;
     }
     .posss {
         font-size: 60px;
